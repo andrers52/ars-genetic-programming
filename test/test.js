@@ -1,8 +1,8 @@
 'use strict'
 
 let Assert = require('../../util/assert.js').default
-let Program = require('../engines/program/Program.js').default
-let Instruction = require('../engines/program/Instruction.js').default
+let Program = require('../engines/program/program.js').default
+let Instruction = require('../engines/program/instruction.js').default
 let Evolver = require('../Evolver.js').default
 
 // -----------------  INSTRUCTION -------------------

@@ -5,7 +5,7 @@ import EArray from '../arslib/enhancements/e-array.js'
 import Util from '../arslib/util/util.js'
 import Random from '../arslib/util/random.js'
 
-import Program from './engines/program/Program.js'
+import Program from './engines/program/program.js'
 
 
 export default function Evolver ({

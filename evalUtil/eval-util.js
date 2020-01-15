@@ -1,7 +1,7 @@
 'use strict'
 
 // Usage: 
-// import evalUtil from '../lib/arslib/geneticComputing/evalUtil/evalUtil.js'
+// import evalUtil from '../lib/arslib/geneticComputing/evalUtil/eval-util.js'
 // ...
 // evalUtil.blablabla()
 
