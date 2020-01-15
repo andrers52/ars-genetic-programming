@@ -1,2 +1,2 @@
-# ars-genetic-programming
-Andre´s Genetic Programming Library
+#Andre's Genetic Programming library
+

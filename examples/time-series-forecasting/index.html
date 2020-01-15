@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<head>
+    <script type=module src="./learnSin.js"></script>
+    <script type=module>
+        import {learnSin} from './learnSin.js'
+        (function() {
+          learnSin('result','infoTextArea', 'canvas')
+        })()
+    </script>
+    
+</head>
+<html>
+  <body>
+      <div style="width: 100%; height: 400px;">
+          Graph:<br/>
+          <canvas id="canvas"  style="border-style: groove; width: 98%; height: 70%;"></canvas>
+          <br/>
+          Info:<br/>
+          <textarea id="infoTextArea" style="width: 400px; height: 80px;"></textarea>
+          <br/>
+          Difference:<br/>
+          <input type="text" id="result">
+        </div>    
+  </body>
+</html>
+
