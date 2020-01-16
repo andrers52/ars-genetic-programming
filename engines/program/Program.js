@@ -3,7 +3,7 @@
 import Assert from '../../../arslib/util/assert.js'
 import Random from '../../../arslib/util/random.js'
 import EArray from '../../../arslib/enhancements/e-array.js'
-import LanguageConstruct from '../../../arslib/util/LanguageConstruct.js'
+import LanguageConstruct from '../../../arslib/util/language-construct.js'
 import Instruction from './instruction.js'
 
 // Note: If output cannot grow/shrink outputChangeNumUnits must remain "0", otherwise the value reflects the number of units to grow/shrink each time.

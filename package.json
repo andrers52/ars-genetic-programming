@@ -1,6 +1,6 @@
 {
   "name": "ars-genetic-programming",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Andre's Genetic Programming Library",
   "repository": "https://github.com/andrers52/ars-genetic-programming.git",
   "main": "evolver.js",
