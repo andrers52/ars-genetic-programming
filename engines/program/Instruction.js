@@ -4,7 +4,7 @@
 //    and output to 'mem', 'blackboard', or 'output'. 
 // 2 - If the instruction returns a value, that will be added to the program counter (pc).
 
-import {EArray} from 'arslib'
+import {EArray} from '../../../arslib/enhancements/e-array.js'
 
 const MAX_JMP_SIZE = 3
 
